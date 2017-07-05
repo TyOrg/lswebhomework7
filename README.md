@@ -4,9 +4,9 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Array
-	* Object
-	* Method
+	* Array - a way to make a list of items while programming.
+	* Object - an object is a self-contained piece of code. An object is a collection of properties.
+	* Method - methods are actions that can be performed on ojbects. A method is a property containing a function definition.
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
